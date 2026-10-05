@@ -1,0 +1,223 @@
+BINGEBUDDY - NETFLIX STYLE SHOW DATABASE
+
+Welcome to BingeBuddy! This is a fictional movie and series recommendation database created for the BingeBuddy RAG chatbot.
+
+
+TITLE: Midnight Signals
+GENRE: Mystery, Thriller
+LANGUAGE: English
+AGE RATING: 16+
+EPISODES: 8
+EPISODE LENGTH: 45 minutes
+MOOD: Dark, suspenseful, mysterious
+DESCRIPTION: A group of young journalists discover strange signals coming from an abandoned radio station. Each episode reveals another clue about the mystery.
+BEST FOR: Viewers who enjoy mystery, suspense, dark stories, and plot twists.
+
+
+TITLE: Seoul After Rain
+GENRE: Romance, Drama
+LANGUAGE: Korean
+AGE RATING: 13+
+EPISODES: 12
+EPISODE LENGTH: 55 minutes
+MOOD: Warm, emotional, romantic
+DESCRIPTION: Two people reconnect in Seoul after years apart and slowly discover that their feelings never disappeared.
+BEST FOR: Viewers who enjoy Korean romance, emotional stories, slow-burn relationships, and beautiful city settings.
+
+
+TITLE: Campus Crush Club
+GENRE: Romance, Comedy
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 10
+EPISODE LENGTH: 42 minutes
+MOOD: Cute, funny, youthful
+DESCRIPTION: A group of university friends create a secret club to help each other with their complicated crushes.
+BEST FOR: Viewers who enjoy cute romance, college stories, friendship, comedy, and lighthearted entertainment.
+
+
+TITLE: The Last Playlist
+GENRE: Drama, Music
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 8
+EPISODE LENGTH: 48 minutes
+MOOD: Emotional, inspiring
+DESCRIPTION: An aspiring musician creates a final playlist of songs connected to important moments in her life.
+BEST FOR: Viewers who enjoy music, emotional stories, personal growth, and inspirational dramas.
+
+
+TITLE: Code & Coffee
+GENRE: Comedy, Technology
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 10
+EPISODE LENGTH: 35 minutes
+MOOD: Light, funny, nerdy
+DESCRIPTION: A group of young programmers share a small apartment while trying to survive university, coding projects, deadlines, and friendship.
+BEST FOR: Viewers who enjoy technology, university life, programming, comedy, and friendship.
+
+
+TITLE: Velvet Lies
+GENRE: Crime, Mystery
+LANGUAGE: English
+AGE RATING: 16+
+EPISODES: 9
+EPISODE LENGTH: 50 minutes
+MOOD: Stylish, tense, mysterious
+DESCRIPTION: A wealthy family hides a secret that begins to unravel after an unexpected visitor arrives at their mansion.
+BEST FOR: Viewers who enjoy crime mysteries, secrets, wealthy-family dramas, and suspense.
+
+
+TITLE: Moonlight Academy
+GENRE: Fantasy, Drama
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 12
+EPISODE LENGTH: 52 minutes
+MOOD: Magical, adventurous
+DESCRIPTION: Students at a mysterious academy discover that their school exists between the normal world and a magical dimension.
+BEST FOR: Viewers who enjoy fantasy, magic, adventure, school settings, and mysterious worlds.
+
+
+TITLE: Weekend in Istanbul
+GENRE: Romance, Travel
+LANGUAGE: Turkish
+AGE RATING: 13+
+EPISODES: 6
+EPISODE LENGTH: 45 minutes
+MOOD: Romantic, scenic, relaxing
+DESCRIPTION: Two travelers meet unexpectedly during a weekend trip through Istanbul and discover the city together.
+BEST FOR: Viewers who enjoy Turkish romance, travel, beautiful locations, and short series.
+
+
+TITLE: Laughing Roommates
+GENRE: Comedy, Slice of Life
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 16
+EPISODE LENGTH: 25 minutes
+MOOD: Funny, cozy, relaxing
+DESCRIPTION: Four very different roommates turn everyday problems into hilarious adventures.
+BEST FOR: Viewers who want something funny, easy to watch, relaxing, and bingeable.
+
+
+TITLE: Echoes of Home
+GENRE: Family, Drama
+LANGUAGE: Urdu
+AGE RATING: 13+
+EPISODES: 10
+EPISODE LENGTH: 50 minutes
+MOOD: Heartwarming, emotional
+DESCRIPTION: A family faces difficult changes while trying to stay connected and support one another.
+BEST FOR: Viewers who enjoy Urdu dramas, family stories, emotional moments, and meaningful relationships.
+
+
+TITLE: Neon Hearts
+GENRE: Romance, Youth
+LANGUAGE: Korean
+AGE RATING: 13+
+EPISODES: 8
+EPISODE LENGTH: 40 minutes
+MOOD: Sweet, stylish, youthful
+DESCRIPTION: Two young artists meet while working on a music project and slowly develop feelings for each other.
+BEST FOR: Viewers who enjoy Korean romance, youth stories, music, stylish visuals, and sweet relationships.
+
+
+TITLE: The Hidden Floor
+GENRE: Mystery, Thriller
+LANGUAGE: English
+AGE RATING: 16+
+EPISODES: 7
+EPISODE LENGTH: 47 minutes
+MOOD: Creepy, mysterious, suspenseful
+DESCRIPTION: Residents of an apartment building discover evidence of a hidden floor that does not appear on any official building plans.
+BEST FOR: Viewers who enjoy creepy mysteries, suspense, secrets, and psychological stories.
+
+
+TITLE: Chef Next Door
+GENRE: Romance, Food
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 10
+EPISODE LENGTH: 44 minutes
+MOOD: Comforting, romantic, warm
+DESCRIPTION: A young chef opens a restaurant next to a quiet bookstore and develops an unexpected friendship with the bookstore owner.
+BEST FOR: Viewers who enjoy food, romance, cozy stories, restaurants, and comforting entertainment.
+
+
+TITLE: Parallel Summer
+GENRE: Science Fiction, Romance
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 8
+EPISODE LENGTH: 49 minutes
+MOOD: Dreamy, emotional, mysterious
+DESCRIPTION: Two teenagers discover that they are living the same summer in two different timelines.
+BEST FOR: Viewers who enjoy science fiction, romance, emotional stories, alternate timelines, and mystery.
+
+
+TITLE: Golden Hour
+GENRE: Drama, Friendship
+LANGUAGE: Urdu
+AGE RATING: 13+
+EPISODES: 9
+EPISODE LENGTH: 46 minutes
+MOOD: Emotional, hopeful
+DESCRIPTION: A group of longtime friends face important decisions about university, careers, relationships, and their future.
+BEST FOR: Viewers who enjoy Urdu dramas, friendship, emotional stories, and realistic life situations.
+
+
+TITLE: Shadow Protocol
+GENRE: Action, Thriller
+LANGUAGE: English
+AGE RATING: 16+
+EPISODES: 10
+EPISODE LENGTH: 51 minutes
+MOOD: Fast, intense, exciting
+DESCRIPTION: A cybersecurity expert becomes involved in an international conspiracy after discovering a mysterious encrypted file.
+BEST FOR: Viewers who enjoy action, technology, thrillers, cybersecurity, and fast-paced stories.
+
+
+TITLE: Paper Stars
+GENRE: Romance, Drama
+LANGUAGE: Korean
+AGE RATING: 13+
+EPISODES: 8
+EPISODE LENGTH: 43 minutes
+MOOD: Soft, heartfelt, emotional
+DESCRIPTION: Two students begin exchanging anonymous handwritten letters and slowly fall in love without knowing each other's identities.
+BEST FOR: Viewers who enjoy Korean romance, school stories, letters, emotional moments, and slow-burn relationships.
+
+
+TITLE: Billionaire's Internship
+GENRE: Romance, Comedy
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 12
+EPISODE LENGTH: 41 minutes
+MOOD: Fun, glamorous, romantic
+DESCRIPTION: A university student accidentally becomes an intern at a company owned by a mysterious young billionaire.
+BEST FOR: Viewers who enjoy romantic comedies, workplace stories, wealthy characters, glamorous settings, and fun drama.
+
+
+TITLE: Mystery at Lake Blue
+GENRE: Mystery, Teen
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 8
+EPISODE LENGTH: 45 minutes
+MOOD: Suspenseful, youthful, mysterious
+DESCRIPTION: A group of teenagers investigate a strange disappearance that happened near Lake Blue years ago.
+BEST FOR: Viewers who enjoy teen mysteries, friendship, suspense, investigations, and secrets.
+
+
+TITLE: One More Episode
+GENRE: Comedy, Romance
+LANGUAGE: English
+AGE RATING: 13+
+EPISODES: 10
+EPISODE LENGTH: 38 minutes
+MOOD: Cute, funny, bingeable
+DESCRIPTION: Two neighbors keep meeting while watching the same shows and eventually become close friends.
+BEST FOR: Viewers who want a cute romantic comedy that is easy, funny, and relaxing to binge.
